@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **makayla-moster/makayla-moster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3>Hello there!<br>I'm Makayla Moster<br>a Computer Science Ph.D. student at Clemson University</h3>
+
+[![Makayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=makayla-moster&count_private=true)](https://github.com/makayla-moster/github-readme-stats)
