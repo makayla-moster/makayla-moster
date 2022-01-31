@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 <h3>Hello there!<br>I'm Makayla Moster<br>a Computer Science Ph.D. student at Clemson University</h3>
 
-[![Makayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=makayla-moster&count_private=true)](https://github.com/makayla-moster/github-readme-stats)
+[![Makayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=makayla-moster&count_private=true&show_icons=true&theme=github_dark)](https://github.com/makayla-moster/github-readme-stats)
+
+[![Moster-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makayla-moster&layout=compact&theme=github_dark)](https://github.com/makayla-moster/github-readme-stats)
