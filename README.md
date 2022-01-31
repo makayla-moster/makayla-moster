@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [HammerBot](https://github.com/makayla-moster/HammerBot), a discord bot focused on the Age of Empires 2 community.
 - 🌱 I’m currently learning how to make [HammerBot](https://github.com/makayla-moster/HammerBot) into a Twitch bot.
+- 💻 I recently collaborated on a [Fractal Generation Website](https://fractals.iapetus11.me/) as part of a Hackathon.
 - ⚡ Fun fact: Python is my first-learned, most-used, and favorite language.
 - 😄 Pronouns: she/her/hers
 
