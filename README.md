@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h3>Hello there! 👋<br>I'm Makayla Moster<br>a Computer Science Ph.D. student at Clemson University</h3>
+<!-- <h3>Hello there! 👋<br>I'm Makayla Moster<br>a Computer Science Ph.D. student at Clemson University</h3> -->
 
-<h4> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4>
+![](imgs/Readme_2.png)
+
+<h4 align="center"> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4>
 
 - 🤖 I’m currently working on HammerBot! A [Discord bot](https://github.com/makayla-moster/HammerBot) and a [Twitch bot](https://github.com/makayla-moster/HammerBot_Twitch) focused on the Age of Empires 2 community.
 - 🌱 I’m currently learning React to update my [personal website](https://makayla-moster.github.io/).
