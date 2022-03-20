@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ☠ I recently created a [pirate-themed hangman game](https://makayla-moster.github.io/hackman_hangman/) as part of a Discord Programming Challenge.
 - ⚡ Fun fact: Python is my first-learned, most-used, and favorite language.
 - 😄 Pronouns: she/her/hers
-- <!-- - 🌱 I’m currently learning how to transfer [HammerBot](https://github.com/makayla-moster/HammerBot) into a [Twitch HammerBot](https://github.com/makayla-moster/HammerBot_Twitch). -->
+<!-- - 🌱 I’m currently learning how to transfer [HammerBot](https://github.com/makayla-moster/HammerBot) into a [Twitch HammerBot](https://github.com/makayla-moster/HammerBot_Twitch). -->
 
 <!-- - I'm currently working on HammerBot, a Discord and (hopefully soon) Twitch bot focused around the Age of Empires 2 community. 
 
