@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 ![](imgs/Readme_2.png)
 
-<h4 align="center"> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4>
+<div align="center"> 
+  
+![](https://img.shields.io/badge/-makayla--moster.github.io-green?style=flat-square&logo=github&logoColor=white&link=https://makayla-moster.github.io/) ![](https://img.shields.io/badge/-@makaylamoster-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/makaylamoster) ![](https://img.shields.io/badge/-Makayla%20Moster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmoster/) ![](https://img.shields.io/badge/-mmoster@clemson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoster@clemson.edu) 
+  
+</div>
+<!-- 
+<h4 align="center"> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4> -->
 
 - 🤖 I’m currently working on HammerBot! A [Discord bot](https://github.com/makayla-moster/HammerBot) and a [Twitch bot](https://github.com/makayla-moster/HammerBot_Twitch) focused on the Age of Empires 2 community.
 - 🌱 I’m currently learning React to update my [personal website](https://makayla-moster.github.io/).
