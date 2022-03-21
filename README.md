@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/-makayla--moster.github.io-green?style=flat-square&logo=github&logoColor=white&link=https://makayla-moster.github.io/) ![](https://img.shields.io/badge/-@makaylamoster-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/makaylamoster) ![](https://img.shields.io/badge/-Makayla%20Moster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmoster/) ![](https://img.shields.io/badge/-mmoster@clemson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoster@clemson.edu) 
+  [![Website][website-shield]][website-url]
+  [![Twitter][twitter-shield]][twitter-url] 
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Email Me][email-shield]][email-url] 
   
 </div>
 <!-- 
@@ -70,3 +73,14 @@ Here are some ideas to get you started:
     </td>
   </tr> -->
 </table>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[website-shield]: https://img.shields.io/badge/-makayla--moster.github.io-green?style=flat-square&logo=github&logoColor=white&link=https://makayla-moster.github.io/
+[website-url]: https://makayla-moster.github.io/
+[twitter-shield]: https://img.shields.io/badge/-@makaylamoster-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/makaylamoster
+[twitter-url]: https://twitter.com/makaylamoster 
+[linkedin-shield]: https://img.shields.io/badge/-Makayla%20Moster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmoster/
+[linkedin-url]: https://www.linkedin.com/in/mmoster/
+[email-shield]: https://img.shields.io/badge/-mmoster@clemson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoster@clemson.edu
+[email-url]: mailto:mmoster@clemson.edu
