@@ -45,15 +45,55 @@ Here are some ideas to get you started:
 
 <!-- [![Moster-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makayla-moster&layout=compact&theme=github_dark)](https://github.com/makayla-moster/github-readme-stats) -->
 
+<!-- <p>
+  <details style="float:left" open>
+    <summary><samp><b> 🚀 My Languages </b> </samp> </summary>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='50'/>
+  </details>
+    <details style="float:right" open>
+    <summary><samp> <b>⚡️ My Skills </b> </samp> </summary>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' alt='Azure' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg' alt='Vim' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='50'/>
+  </details>
+</p> -->
+
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" align="center" width="50%">
+        <b> 👩🏼‍💻 I've worked with with...</b> </br></br>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='C' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' alt='HTML5' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' alt='CSS3' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
+<!--           <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' alt='CSS3' width='50'/> -->
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b> 🧠 I'm currently learning... </b> </br></br>
+<!--           <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' alt='Azure' width='50'/> -->
+<!--           <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/> -->
+<!--           <img src = 'https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg' alt='Vim' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='50'/> -->
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='JS' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='React' width='50'/>
+          <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
+     </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="50%">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=makayla-moster&count_private=true&show_icons=true&theme=react" class="responsive" />
       </a>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=makayla-moster&theme=react" class="responsive" />
       </a>
