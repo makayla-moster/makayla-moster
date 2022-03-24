@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   [![LinkedIn][linkedin-shield]][linkedin-url]
   [![Email Me][email-shield]][email-url] 
   
+  
 </div>
 <!-- 
 <h4 align="center"> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4> -->
@@ -113,6 +114,13 @@ Here are some ideas to get you started:
     </td>
   </tr> -->
 </table>
+</br>  
+</br>  
+<div align="center">  
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=makayla-moster&style=flat-square&color=blue)  
+  
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
