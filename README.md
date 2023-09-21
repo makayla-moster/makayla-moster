@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <!-- 
 <h4 align="center"> <a href="https://makayla-moster.github.io/index.html">Website</a> • <a href="https://twitter.com/makaylamoster">Twitter</a> • <a href="https://www.linkedin.com/in/mmoster/">LinkedIn</a> • <a href="mailto:mmoster@clemson.edu">Email</a></h4> -->
 
-- 🤖 I’ve been working on HammerBot! A [Discord bot](https://github.com/makayla-moster/HammerBot) and a [Twitch bot](https://github.com/makayla-moster/HammerBot_Twitch) focused on the Age of Empires 2 community.
-- 🌱 I’m currently learning React to update my [personal website](https://makayla-moster.github.io/).
+- 🤖 I’ve been working on HammerBot! A [Discord bot](https://github.com/makayla-moster/HammerBot) focused on the Age of Empires 2 community.
+- 🌱 I’m learned Gatsby/TailwindCSS to update my [personal website](https://makayla-moster.github.io/).
 <!-- - 💻 I recently collaborated on a [Fractal Generation Website](https://fractals.iapetus11.me/) as part of a Hackathon. -->
 <!-- - ☠ I recently created a [pirate-themed hangman game](https://makayla-moster.github.io/hackman_hangman/) as part of a Discord Programming Challenge. -->
 - ⚡ Fun fact: Python is my first-learned, most-used, and favorite language.
