@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <h3>Hello there! 👋<br>I'm Makayla Moster, Ph.D.<br>CS Ph.D. Candidate @ Clemson University <br>Incoming Assistant Professor @ UNCW </h3>
-<p>Pronouns: she/her/hers</p>
 
 <!--![](imgs/Readme_2.png)-->
 
