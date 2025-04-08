@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <div align="center"> 
   
   [![Website][website-shield]][website-url]
-  [![Twitter][twitter-shield]][twitter-url] 
   [![LinkedIn][linkedin-shield]][linkedin-url]
   [![Email Me][email-shield]][email-url] 
   
