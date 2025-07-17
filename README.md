@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   [![Website][website-shield]][website-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![Email Me][email-shield]][email-url] 
+  <!--[![Email Me][email-shield]][email-url] -->
   
   
 </div>
