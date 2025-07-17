@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 [twitter-url]: https://twitter.com/makaylamoster 
 [linkedin-shield]: https://img.shields.io/badge/-Makayla%20Moster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmoster/
 [linkedin-url]: https://www.linkedin.com/in/mmoster/
-[email-shield]: https://img.shields.io/badge/-mmoster@clemson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoster@clemson.edu
-[email-url]: mailto:mmoster@clemson.edu
+<!--[email-shield]: https://img.shields.io/badge/-mmoster@clemson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoster@clemson.edu
+[email-url]: mailto:mmoster@clemson.edu-->
